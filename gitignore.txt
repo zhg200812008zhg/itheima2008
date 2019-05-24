@@ -1,0 +1,5 @@
+new file:   .idea/encodings.xml
+new file:   .idea/itcast_test.iml
+new file:   .idea/misc.xml
+new file:   .idea/modules.xml
+new file:   .idea/workspace.xml
