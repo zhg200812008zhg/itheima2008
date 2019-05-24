@@ -7,6 +7,10 @@ app = Flask(__name__, static_url_path="", static_folder="")
 def index():
     return "index page"
 
+@app.route("/order/list")
+def order_list():
+    return "hello order"
+
 
 class Config(object):
     DEBUG = True
