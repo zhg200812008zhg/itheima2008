@@ -12,6 +12,10 @@ def index():
 def cartlist():
     return "cart_list"
 
+@app.route("price/]list")
+def pricelist():
+    return "price_list"
+
 
 class Config(object):
     DEBUG = True
